@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💬 Ask me about Healthcare IT topics like clinical exchange via national networks.
+
+Pronouns: he/him
 <!--
 **jeffncode/jeffncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
